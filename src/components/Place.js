@@ -23,16 +23,17 @@ const Place = React.forwardRef((props, ref) => {
 
     const largeImageStyle = {
         height:'100%',
-        width :'70%',
-        margin :'3px',
-        borderRadius : '15%'
+        width :'69%',
+        margin : '0 0.5% 0 0.5%',
+        borderRadius : '5%'
 
     }
     const smallImageStyle = {
-        height: '50%',
-        width : '30%',
-        margin :'0 2px 0 2px',
-        borderRadius : '15%'
+        height: '49%',
+        width : '29%',
+        margin :'0 0.5% 0 0.5%',
+        padding : '0',
+        borderRadius : '5%'
     }
     let smallImages = venue.venue_photo_arr;
 
