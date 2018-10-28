@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It  takes different places from the grabbd api and displays the data on the page. The features include:
+1) When any image is clicked, it shows up on the right side component.
+2) When the large image on the right side is clicked, it scrolls to the original place venue that has that image.
+3)Infinite scroll
+4) Responsive design using of css flexbox and media queries.
+5) Meterial icons.
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
